@@ -41,7 +41,7 @@ function setup() {
     createCanvas(400, 400);
   }
   function setup() {
-    createCanvas(1080, 1920);
+    createCanvas(1200, 1000);
     background("black")
   }
   
